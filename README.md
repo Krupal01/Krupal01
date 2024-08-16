@@ -15,6 +15,18 @@
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/krupal-bhuva-5593711aa) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bhuvakrupal01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/krupalbhuva4)
+
+
+<a href=""/>
+  <img align="left" alt="jay's qwiklabs" width="30px" src="https://opensource.microsoft.com/assets/images/svgs/microsoft-logo-no-text.svg" />
+</a>
+<a href=""/>
+  <img align="left" alt="jay's qwiklabs" width="30px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
+</a>
+
+<a href=""/>
+ <img align="left" alt="jay's qwiklabs" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlvIVTbD83Cmc52a-cBBNvVmJYVE1UKrkaV8Mg8EZen-OUlS1u18qKsqQFRVE-QGi_P3w&usqp=CAU" />
+</a>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krupal01&label=Views&color=blue&style=plastic" alt="Krupal01" /> </p>
 <br/>
